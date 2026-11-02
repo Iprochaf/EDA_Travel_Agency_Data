@@ -2,7 +2,7 @@
 
 Aplicação em Streamlit da disciplina **Análise e Visualização de Dados** (CESAR School, 2026.2), feita a partir do repositório-modelo das Aulas 21 a 23.
 
-**Link do app:** _(preencher após o deploy: `https://<subdominio>.streamlit.app`)_
+**Link do app:** https://edatravelagencydata-nw9d6k76zw3kgklrvwmxfy.streamlit.app/
 
 ## O projeto
 
