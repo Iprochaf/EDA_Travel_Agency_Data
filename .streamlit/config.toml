@@ -1,0 +1,21 @@
+# Identidade visual: "mar e pôr do sol"
+# Azul-petróleo como cor principal (viagem, mar) e laranja para destacar reservas, o resultado que importa.
+# As mesmas cores estão no app.py (COR_PRIMARIA, COR_BUSCA, COR_RESERVA).
+
+[theme]
+paddingTop = "0.0rem"
+font = "sans serif"
+
+[theme.light]
+primaryColor = "#0e7490"              # destaque (sliders, botões, abas)
+backgroundColor = "#ffffff"           # fundo da página
+secondaryBackgroundColor = "#eef6f8"  # sidebar e widgets (azul bem claro)
+textColor = "#1f2933"
+borderColor = "#cfe0e5"
+
+[theme.dark]
+primaryColor = "#22a6c3"
+backgroundColor = "#0b1418"
+secondaryBackgroundColor = "#142329"
+textColor = "#f1f5f7"
+borderColor = "#2b3f46"

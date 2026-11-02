@@ -16,12 +16,34 @@ Claude (Anthropic), modelo Claude Opus 5.5, via claude.ai.
 
 ### O que a IA gerou
 
-- ROTEIRO.md
+Um roteiro para eu me basear e inicialmente tinha escrito essa declaração de Ia, mas possuia muitos erros
 
 ### O que foi aceito, modificado ou rejeitado e por quê
 
 <!-- Preencha com as suas decisões. -->
 
-- **Aceito:** ROTEIRO.md, ALTAIR-CROSSFILTER.md e README.md
+- **Aceito:** 
+- **Modificado:**
+- **Rejeitado:**
+
+## Aula 22 (02/11/2026)
+
+### Ferramenta
+
+Claude (Anthropic), modelo Claude Opus 5.5, via claude.ai.
+
+### Prompts usados
+
+1. "E o que eu devo botar no commit 3 (referente a entrega dois)?"
+2. "dê uma olhada no funcionamento do código e me de sujestões do que posso melhorar"
+
+### O que a IA gerou
+
+Me deu uma explicação do que eu tinha que fazer nessa entrega dois
+Me fez sujestões do que melhorar no trabalho
+
+### O que foi aceito, modificado ou rejeitado e por quê
+
+- **Aceito:**
 - **Modificado:**
 - **Rejeitado:**
